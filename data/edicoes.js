@@ -68,8 +68,7 @@ window.EDICOES = [
     local:         "São Paulo, no nosso auditório na Avenida Paulista",
     status:        "aberta",
 
-    // TODO Guilherme: criar o evento da Jornada 03 no Wix e colar o link aqui.
-    link_checkout: "",
+    link_checkout: "https://www.yakarana.com/event-details/jornada-mercado-de-carbono-iii",
 
     preco:         "",
     lote_atual:    "",
@@ -89,8 +88,7 @@ window.EDICOES = [
     local:         "São Paulo, no nosso auditório na Avenida Paulista",
     status:        "aberta",
 
-    // TODO Guilherme: criar o evento da Jornada 04 no Wix e colar o link aqui.
-    link_checkout: "",
+    link_checkout: "https://www.yakarana.com/event-details/jornada-mercado-de-carbono-iv",
 
     preco:         "",
     lote_atual:    "",
